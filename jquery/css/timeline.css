@@ -1,22 +1,8 @@
 @charset "utf-8";
-* {
-	margin:0;
-	padding:0;
-	list-style-type:none;
-}
-a, img {
-	border:0;
-}
-body {
-	font:12px/180% Arial, Helvetica, sans-serif, "新宋体";
-}
-.demo {
-	width:960px;
-	margin:60px auto 0 auto;
-}
+
 /*history*/
 .history {
-	background:url(../images/line04.gif) repeat-y 187px 0;
+	background:url(https://cdn.jsdelivr.net/gh/lovelyJason/cdn-gallery/img/line04.gif) repeat-y 187px 0;
 	overflow:hidden;
 	position:relative;
 }
@@ -25,7 +11,7 @@ body {
 	position:relative;
 }
 .history-date h2 {
-	background:#fff url(../images/icon06.gif) no-repeat 158px 0;
+	background:#fff url(https://cdn.jsdelivr.net/gh/lovelyJason/cdn-gallery/img/icon06.gif) no-repeat 158px 0;
 	height:59px;
 	font-size:25px;
 	font-family:微软雅黑;
@@ -45,7 +31,7 @@ body {
 	display:inline-block;
 *display:inline;
 	zoom:1;
-	background:url(../images/icon08.gif) no-repeat right 50%;
+	background:url(https://cdn.jsdelivr.net/gh/lovelyJason/cdn-gallery/img/icon08.gif) no-repeat right 50%;
 	padding-right:17px;
 	margin:21px 97px 0 0;
 }
@@ -59,7 +45,7 @@ body {
 	background:none;
 }
 .history-date ul li {
-	background:url(../images/icon07.gif) no-repeat 180px 0;
+	background:url(https://cdn.jsdelivr.net/gh/lovelyJason/cdn-gallery/img/icon07.gif) no-repeat 180px 0;
 	padding-bottom:50px;
 	zoom:1;
 }
