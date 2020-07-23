@@ -49,6 +49,9 @@
 	padding-bottom:50px;
 	zoom:1;
 }
+.history-date ul li.bounceInDown {
+	display: flex;
+}
 .history-date ul li.last {
 	padding-bottom:0;
 }
